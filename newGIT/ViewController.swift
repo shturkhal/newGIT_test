@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         self.view.addSubview(myLabel)
        
     }
+    // MARK: functions
+    
+    func setLabel(label: UILabel) {
+        
+    }
 
 
 }
