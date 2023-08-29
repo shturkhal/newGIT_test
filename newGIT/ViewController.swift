@@ -15,7 +15,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.view.addSubview(myLabel)
-       
+       // now change
+        
+        self.view.backgroundColor = .magenta
     }
     // MARK: functions
     
